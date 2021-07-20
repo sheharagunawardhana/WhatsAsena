@@ -14,7 +14,7 @@
         "_plugin": {
             "INSTALL_DESC": "*බාහිර  plugins ස්ථාපනය කරන්න.*",
             "NEED_URL": "*කරුණාකර url එකක් ඇතුලත් කරන්න! උදාහරණයක් :*",
-            "INVALID_URL": "```*¡වලංගු url එක ඇතුලත් කරන්න!*```",
+            "INVALID_URL": "```¡වලංගු url එක ඇතුලත් කරන්න!```",
             "INVALID_PLUGIN": "*❌ ¡ඔබේ ප්ලගීනය අවලංගුයි!*\n*දෝෂයකි:*",
             "INSTALLED": "*✅ ¡ප්ලගින් සාර්ථකව ස්ථාපනය කර ඇත!*",
             "PLUGIN_DESC": "*ඔබ ස්ථාපනය කර ඇති ප්ලගීනය පෙන්වයි.*",
@@ -22,13 +22,13 @@
             "NO_PLUGIN": "*¡ඔබ බාහිර ප්ලගීන කිසිවක් ස්ථාපනය කර නොමැත!*",
             "REMOVE_DESC": "*ප්ලගීනය ඉවත් කරයි.*",
             "NEED_PLUGIN": "```කරුණාකර ප්ලගීනයක් ඇතුලත් කරන්න. උදාහරණයක්: .plugin __test```",
-            "NOT_FOUND_PLUGIN": "```Tal vez haya instalado un complemento de este tipo, o tal vez no. Pero seguro que no ahora mismo.```",
-            "DELETED": "*✅ ¡Plugin eliminado correctamente! Debe reiniciar el bot para que los cambios surtan efecto.*"
+            "NOT_FOUND_PLUGIN": "```සමහරවිට එවැනි ප්ලගිනයක් ස්ථාපනය කරඇති අතර සමහරවිට නැත.නමුත් එය දැන්  නොමැති බව විශ්වාසයි```",
+            "DELETED": "*✅ ¡මොඩියුලය සාර්ථකව මකා දමන ලදී.*"
         },
         "admin": {
-            "BAN_DESC": "La persona del grupo será baneada. (Responda o etiquete a la persona junto al comando).",
-            "IM_NOT_ADMIN": "*¡No soy un administrador en este grupo!*",
-            "BANNED": "Eliminado/a del grupo!",
+            "BAN_DESC": "කණ්ඩායමේ කෙනෙකු තහනම් කරන්න.පණිවිඩයට පිළිතුරු දෙන්න හෝ විධානය භාවිතා කිරීමට පුද්ගලයෙකු ටැග් කරන්න.",
+            "IM_NOT_ADMIN": "*¡මම මෙම කණ්ඩායමේ පරිපාලක නොවේ!*",
+            "BANNED": "කණ්ඩායමෙන් පන්නා දැමුවා!",
             "GIVE_ME_USER": "*¡Dame un usuario!*",
             "ADD_DESC": "Agrega personas al grupo.",
             "ADDED": "¡Añadido al grupo!",

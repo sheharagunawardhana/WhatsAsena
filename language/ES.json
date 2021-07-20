@@ -6,31 +6,6 @@
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
-            "DESC": "description",
-            "EXAMPLE": "example",
-            "NOT_FOUND": "
-{
-    "__ASENAJSON__": true,
-    "LANGUAGE": "Sinhala",
-    "LANGCODE": "si",
-    "AUTHOR": "Lasiya",
-    "STRINGS": {
-        "_asena": {
-            "COMMAND": "Command",
-            "DESC": "Description",
-            "EXAMPLE": "Example",
-            "NOT_FOUND": "*එවැනි විධානයක් සොයාගැනීමට නොමැත☹️*"
-        },
-        "_plugin": {
-            "INSTALL_DESC": "
-{
-    "__ASENAJSON__": true,
-    "LANGUAGE": "Sinhala",
-    "LANGCODE": "si",
-    "AUTHOR": "Lasiya",
-    "STRINGS": {
-        "_asena": {
-            "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
             "NOT_FOUND": "*එවැනි විධානයක් සොයාගැනීමට නොමැත🤔*",
@@ -41,7 +16,7 @@
             "NEED_URL": "Introduzca una URL. Muestra:",
             "INVALID_URL": "```¡Ingrese una URL válida!```",
             "INVALID_PLUGIN": "*❌ ¡Tu plugin está defectuoso!*\n*Error:*",
-            "INSTALLED": "*✅ ¡El plugin se ha instalado correctamente!*",
+            "INSTALLED": "*✅ ¡El plugin yse ha instalado correctamente!*",
             "PLUGIN_DESC": "Muestra los plugins que ha instalado.",
             "INSTALLED_FROM_REMOTE": "*plugins instalados externamente:*",
             "NO_PLUGIN": "*¡No ha instalado ningún plugin externo!*",
@@ -230,7 +205,7 @@
             "NEW_UPDATE": "*¡Hay una nueva actualización disponible para el bot!*\n\nCambios:\n```",
             "UPDATE_NOW_DESC": "Actualizar ahora.",
             "UPDATING": "_La actualización está en curso..._",
-            "INVALID_HEROKU": "*❌ ¡Tu información de Heroku es incorrecta!*",
+            "INVALID_HEROKU": "*❌ ¡Tu informthwheación de Heroku es incorrecta!*",
             "UPDATED": "*✅ ¡La actualización fue exitosa!*",
             "UPDATED_LOCAL": "*✅ ¡La actualización fue exitosa!*\n_Para guardar los cambios deben reiniciarse._"
         },

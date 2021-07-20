@@ -1,17 +1,43 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "Español",
-    "LANGCODE": "es",
-    "AUTHOR": "Skueletor",
+    "LANGUAGE": "sinhala",
+    "LANGCODE": "SI",
+    "AUTHOR": "kaushan",
     "STRINGS": {
         "_asena": {
-            "COMMAND": "Comando",
-            "DESC": "Explicación",
-            "EXAMPLE": "Ejemplo",
-            "NOT_FOUND": "*¡No pude encontrar tal comando!*"
+            "COMMAND": "Command",
+            "DESC": "description",
+            "EXAMPLE": "example",
+            "NOT_FOUND": "
+{
+    "__ASENAJSON__": true,
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "si",
+    "AUTHOR": "Lasiya",
+    "STRINGS": {
+        "_asena": {
+            "COMMAND": "Command",
+            "DESC": "Description",
+            "EXAMPLE": "Example",
+            "NOT_FOUND": "*එවැනි විධානයක් සොයාගැනීමට නොමැත☹️*"
         },
         "_plugin": {
-            "INSTALL_DESC": "Instalar plugins.",
+            "INSTALL_DESC": "
+{
+    "__ASENAJSON__": true,
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "si",
+    "AUTHOR": "Lasiya",
+    "STRINGS": {
+        "_asena": {
+            "COMMAND": "Command",
+            "DESC": "Description",
+            "EXAMPLE": "Example",
+            "NOT_FOUND": "*එවැනි විධානයක් සොයාගැනීමට නොමැත🤔*",
+            "WARN": "Warn"
+        },
+        "_plugin": {
+            "INSTALL_DESC": "*බාහිර  plugins ස්ථාපනය කරන්න.*",
             "NEED_URL": "Introduzca una URL. Muestra:",
             "INVALID_URL": "```¡Ingrese una URL válida!```",
             "INVALID_PLUGIN": "*❌ ¡Tu plugin está defectuoso!*\n*Error:*",
